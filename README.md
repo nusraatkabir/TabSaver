@@ -15,7 +15,7 @@ Save the active tab: Click "SAVE TAB"
 Delete all saved links: Double-click "DELETE ALL"
 
 ## Technologies Used
-HTM
-CSS
-JavaScript
-Chrome Extension APIs
+✅HTML
+✅CSS
+✅JavaScript
+✅Chrome Extension APIs
